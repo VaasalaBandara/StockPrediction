@@ -1,0 +1,3 @@
+compile code
+
+gcc final4.c pbPlots.c supportLib.c -lm
